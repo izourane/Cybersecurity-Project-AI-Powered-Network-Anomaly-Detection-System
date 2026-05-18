@@ -1,32 +1,102 @@
-# Network Traffic Analyzer
+# 🛡️ AI-Powered Network Intrusion Detection System
 
-Two implementations of the same network traffic analyzer — one in Python, one in C++. Both capture packets at the kernel level, parse protocol headers, and display real-time statistics.
+Real-time behavioral network anomaly detection using Machine Learning, Scapy, and Streamlit.
 
-**[Screenshots & demo →](DEMO.md)**
+---
 
-## Implementations
+# 🚀 Overview
 
-| Implementation | Stack | Highlights |
-|---|---|---|
-| [**C++**](./cpp) | C++20 • libpcap • FTXUI | Interactive TUI, polymorphic IP parser, mutex-protected stats engine |
-| [**Python**](./python) | Python 3.14 • Scapy • Rich | Producer-consumer threading, BPF filter builder, Matplotlib chart export |
+This project transforms a basic network traffic analyzer into a complete AI-powered behavioral intrusion detection system capable of:
 
-## Quick Start
+- Capturing live network traffic
+- Extracting behavioral traffic features
+- Detecting anomalies using Machine Learning
+- Generating real-time threat alerts
+- Visualizing suspicious activities through a professional dashboard
 
-**C++ — high-performance interactive TUI:**
+The system acts as a lightweight real-time Network Intrusion Detection System (NIDS).
 
-```bash
-cd cpp
-./install.sh
-just run -i eth0
-```
+---
 
-**Python — scriptable with chart export:**
+# 🔥 Features
 
-```bash
-cd python
-uv sync
-sudo netanal capture -i eth0
-```
+## ✅ Real-Time Packet Capture
 
-Both require root or `CAP_NET_RAW` capability for packet capture.
+- Live network traffic monitoring
+- Packet parsing with Scapy
+- Protocol analysis
+- Traffic statistics
+
+---
+
+## ✅ Behavioral Feature Engineering
+
+The system extracts advanced behavioral features such as:
+
+- Packet size
+- Protocol frequency
+- Packets per source
+- Bytes per source
+- Unique destinations
+- Packet rate
+- TCP/UDP/DNS ratios
+- Burst score
+
+---
+
+## ✅ Machine Learning Anomaly Detection
+
+Implemented using:
+
+- Isolation Forest
+- Unsupervised anomaly detection
+- Behavioral traffic analysis
+- Real-time inference
+
+---
+
+## ✅ Real-Time Threat Detection
+
+The system detects:
+
+- DNS anomalies
+- Burst traffic
+- High-frequency communications
+- Suspicious host behaviors
+- Potential network attacks
+
+---
+
+## ✅ Professional Dashboard
+
+Built using:
+
+- Streamlit
+- Plotly
+- Pandas
+
+Dashboard capabilities:
+
+- Live anomaly monitoring
+- Risk score visualization
+- Threat severity analysis
+- Top suspicious IPs
+- Protocol analytics
+- Interactive charts
+
+---
+
+# 🧠 Machine Learning Pipeline
+
+```text
+Live Packet Capture
+        ↓
+Behavioral Feature Extraction
+        ↓
+Isolation Forest Inference
+        ↓
+Threat Detection
+        ↓
+Alert Logging
+        ↓
+Real-Time Dashboard
