@@ -1,0 +1,1802 @@
+[
+    {
+        "timestamp": "2026-05-18 22:58:28",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:28",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:29",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:29",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:29",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:29",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:29",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:31",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0095,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:31",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:31",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:32",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:32",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:38",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0095,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:38",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:58:40",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:00",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0095,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:00",
+        "src_ip": "192.168.100.177",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 85,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:00",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 94,
+        "risk_score": -0.0174,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:00",
+        "src_ip": "192.168.100.177",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 85,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:00",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 254,
+        "risk_score": -0.0097,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:06",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:13",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 76,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:14",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 76,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:14",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 129,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:18",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:18",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 191,
+        "risk_score": -0.002,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:19",
+        "src_ip": "192.168.100.115",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 266,
+        "risk_score": -0.0114,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:19",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 191,
+        "risk_score": -0.002,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:19",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0095,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:19",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 231,
+        "risk_score": -0.01,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:20",
+        "src_ip": "192.168.100.115",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 266,
+        "risk_score": -0.0114,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:21",
+        "src_ip": "192.168.100.115",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 266,
+        "risk_score": -0.0114,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:21",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:22",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 103,
+        "risk_score": -0.0008,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:22",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 103,
+        "risk_score": -0.0008,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:22",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:22",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:22",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 77,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:22",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 130,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:23",
+        "src_ip": "192.168.100.115",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 266,
+        "risk_score": -0.0114,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:23",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:23",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.0218,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:23",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 202,
+        "risk_score": -0.0093,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:24",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:25",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 80,
+        "risk_score": -0.0197,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:26",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 195,
+        "risk_score": -0.0093,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:27",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:40",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 79,
+        "risk_score": -0.0211,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:40",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 79,
+        "risk_score": -0.0211,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:40",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 170,
+        "risk_score": -0.0096,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:45",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:49",
+        "src_ip": "192.168.100.220",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 100,
+        "risk_score": -0.0078,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:51",
+        "src_ip": "192.168.100.220",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0086,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:51",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:51",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 109,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:52",
+        "src_ip": "192.168.100.119",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 87,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 22:59:55",
+        "src_ip": "192.168.100.220",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0106,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:02",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 231,
+        "risk_score": -0.01,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:02",
+        "src_ip": "192.168.100.119",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0075,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:02",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 231,
+        "risk_score": -0.01,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:04",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 231,
+        "risk_score": -0.01,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:04",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 86,
+        "risk_score": -0.0191,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:04",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 276,
+        "risk_score": -0.0121,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:08",
+        "src_ip": "192.168.100.225",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 87,
+        "risk_score": -0.0132,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:08",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 80,
+        "risk_score": -0.0197,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:08",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 300,
+        "risk_score": -0.0121,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:09",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 92,
+        "risk_score": -0.0194,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:09",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 218,
+        "risk_score": -0.0079,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:15",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 231,
+        "risk_score": -0.01,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:15",
+        "src_ip": "192.168.100.220",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0106,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:16",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:16",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 136,
+        "risk_score": -0.0085,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:16",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 136,
+        "risk_score": -0.0085,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:16",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 136,
+        "risk_score": -0.0085,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:16",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0138,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:17",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:17",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0138,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:17",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.0218,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:17",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.0218,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:17",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 202,
+        "risk_score": -0.0093,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:18",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0138,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:19",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 107,
+        "risk_score": -0.0085,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:20",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 107,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:20",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 86,
+        "risk_score": -0.0019,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:20",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 447,
+        "risk_score": -0.0155,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:20",
+        "src_ip": "192.168.100.115",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 472,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:20",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:21",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 107,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:23",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:23",
+        "src_ip": "192.168.100.220",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0109,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:23",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 191,
+        "risk_score": -0.002,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:23",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 231,
+        "risk_score": -0.01,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:23",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:24",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:24",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:24",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 109,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:26",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0095,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:26",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:37",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 136,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:38",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 136,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:38",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 136,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:38",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:39",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:39",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:39",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:39",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0019,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:41",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0211,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:41",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 127,
+        "risk_score": -0.0109,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:41",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:41",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 98,
+        "risk_score": -0.0085,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:41",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 110,
+        "risk_score": -0.0102,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 89,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 105,
+        "risk_score": -0.0091,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 89,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 105,
+        "risk_score": -0.0091,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 89,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:42",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 117,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:44",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:47",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 86,
+        "risk_score": -0.0019,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:47",
+        "src_ip": "192.168.100.115",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 472,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:47",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 447,
+        "risk_score": -0.0155,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:47",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:48",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:52",
+        "src_ip": "192.168.100.175",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0019,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:53",
+        "src_ip": "169.254.44.62",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:54",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:55",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 76,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:55",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 76,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:55",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 152,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:00:59",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 124,
+        "risk_score": -0.0026,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:00",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 447,
+        "risk_score": -0.0155,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:00",
+        "src_ip": "192.168.100.170",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:01",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0019,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:01",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 103,
+        "risk_score": -0.0008,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:01",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:02",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:02",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:02",
+        "src_ip": "192.168.100.254",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 85,
+        "risk_score": -0.0119,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:02",
+        "src_ip": "192.168.100.254",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 85,
+        "risk_score": -0.0119,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:04",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 89,
+        "risk_score": -0.0184,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:04",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 89,
+        "risk_score": -0.0184,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:04",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 105,
+        "risk_score": -0.0091,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:07",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:07",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:07",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 91,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:10",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:10",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 86,
+        "risk_score": -0.0184,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:10",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 86,
+        "risk_score": -0.0184,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:10",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:10",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:11",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 102,
+        "risk_score": -0.0098,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:11",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 91,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:14",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 77,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:14",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 77,
+        "risk_score": -0.0208,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:14",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 130,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:16",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 79,
+        "risk_score": -0.0211,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:16",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 79,
+        "risk_score": -0.0211,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:16",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 95,
+        "risk_score": -0.0088,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:22",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:22",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0214,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:22",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 109,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:23",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.0218,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:23",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.0218,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:23",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 200,
+        "risk_score": -0.0093,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:01:26",
+        "src_ip": "192.168.100.225",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 87,
+        "risk_score": -0.0129,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:13",
+        "src_ip": "192.168.100.238",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 124,
+        "risk_score": -0.0026,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:13",
+        "src_ip": "192.168.100.77",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 447,
+        "risk_score": -0.0155,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:13",
+        "src_ip": "192.168.100.238",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:14",
+        "src_ip": "192.168.100.238",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:17",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.022,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:17",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.022,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:17",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 202,
+        "risk_score": -0.0093,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:20",
+        "src_ip": "169.254.130.49",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 96,
+        "risk_score": -0.0095,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:20",
+        "src_ip": "192.168.100.238",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:20",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 103,
+        "risk_score": -0.0008,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:20",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:21",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:21",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:21",
+        "src_ip": "192.168.100.217",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 119,
+        "risk_score": -0.0016,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:22",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 492,
+        "risk_score": -0.0141,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:23",
+        "src_ip": "192.168.100.125",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0119,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:23",
+        "src_ip": "192.168.100.125",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0119,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:24",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 107,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:24",
+        "src_ip": "192.168.100.125",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 82,
+        "risk_score": -0.0123,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:25",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 107,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:25",
+        "src_ip": "192.168.100.221",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 107,
+        "risk_score": -0.0089,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:26",
+        "src_ip": "192.168.100.238",
+        "dst_ip": "224.0.0.251",
+        "protocol": "DNS",
+        "packet_size": 179,
+        "risk_score": -0.0023,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:29",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0217,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:29",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 75,
+        "risk_score": -0.0217,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:29",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 91,
+        "risk_score": -0.0112,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:31",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 93,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:31",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 93,
+        "risk_score": -0.0187,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:02:31",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 109,
+        "risk_score": -0.0099,
+        "severity": "LOW"
+    },
+    {
+        "timestamp": "2026-05-18 23:03:11",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 74,
+        "risk_score": -0.0224,
+        "severity": "HIGH"
+    },
+    {
+        "timestamp": "2026-05-18 23:03:11",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 379,
+        "risk_score": -0.0131,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:03:16",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 85,
+        "risk_score": -0.0197,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:03:16",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 344,
+        "risk_score": -0.0118,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:03:22",
+        "src_ip": "192.168.100.97",
+        "dst_ip": "192.168.100.1",
+        "protocol": "DNS",
+        "packet_size": 85,
+        "risk_score": -0.0197,
+        "severity": "MEDIUM"
+    },
+    {
+        "timestamp": "2026-05-18 23:03:22",
+        "src_ip": "192.168.100.1",
+        "dst_ip": "192.168.100.97",
+        "protocol": "DNS",
+        "packet_size": 216,
+        "risk_score": -0.0079,
+        "severity": "LOW"
+    }
+]
